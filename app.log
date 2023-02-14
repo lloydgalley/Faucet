@@ -1,0 +1,115 @@
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:23:08Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:26:17Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:29:47Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:32:15Z" level=info msg="Starting http server 7080"
+time="2021-12-25T01:32:15Z" level=fatal msg="listen tcp :7080: bind: address already in use"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:33:24Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:34:54Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2021-12-25T01:42:45Z" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+panic: cannot connect to web3 provider: Post "http://localhost:9544": dial tcp 127.0.0.1:9544: connect: connection refused
+
+goroutine 1 [running]:
+github.com/chainflag/eth-faucet/cmd.Execute()
+	/root/pallachain_testnet/eth-faucet/cmd/server.go:55 +0x2b3
+main.main()
+	/root/pallachain_testnet/eth-faucet/main.go:8 +0x17
+nohup: appending output to 'nohup.out'
+time="2022-04-05T23:12:45-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-05T23:16:38-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-05T23:19:09-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-05T23:21:24-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+time="2022-04-06T00:37:30-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-06T03:30:14-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-06T03:45:58-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-06T03:50:03-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-06T03:53:05-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-06T03:55:10-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-04-07T21:59:37-04:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+nohup: appending output to 'nohup.out'
+time="2022-04-18T22:11:50-04:00" level=info msg="Starting http server 7080"
+time="2022-04-25T03:19:19-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-04-25T03:19:23-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-04-25T03:19:38-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-04-25T03:20:20-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-04-25T03:20:29-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-04-25T03:20:50-04:00" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T06:03:29Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T06:11:38Z" level=info msg="Starting http server 7080"
+time="2022-06-17T06:11:38Z" level=fatal msg="listen tcp :7080: bind: address already in use"
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T06:54:29Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T06:56:33Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T10:01:18Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2022-06-17T10:02:54Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2022-06-22T01:53:30Z" level=info msg="Starting http server 7080"
+nohup: appending output to ‘nohup.out’
+time="2022-09-22T08:24:32Z" level=info msg="Starting http server 7080"
+time="2022-10-05T12:56:20Z" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-10-05T12:56:31Z" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+time="2022-10-05T12:57:00Z" level=error msg="Failed to send transaction" error="insufficient funds for gas * price + value"
+nohup: appending output to 'nohup.out'
+time="2022-10-19T18:23:28+07:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-10-19T18:27:27+07:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-10-25T17:00:16+07:00" level=info msg="Starting http server 7080"
+time="2022-10-25T17:22:55+07:00" level=info msg="Funded directly successfully" address=0xfd9bcEb2f9001Dc87fc400E9B4a8c8CBF361881C txHash=0x6ba33786243828c4fc4f4b2b2e441d77a9650e88a7360832d45270aa03ea6450
+time="2022-10-25T17:22:55+07:00" level=info msg="Maximum request limit has been reached" address=0xfd9bcEb2f9001Dc87fc400E9B4a8c8CBF361881C clientIP=127.0.0.1
+nohup: appending output to 'nohup.out'
+time="2022-11-02T17:42:42+07:00" level=info msg="Starting http server 7080"
+time="2022-11-09T12:18:57+07:00" level=info msg="Funded directly successfully" address=0x266b04CBaA83005097a4581aAFF8004CC5776120 txHash=0x23d3a8639319488ff92e053d1423b08b8a33f46e41f25ff7e510ed44c9d0b393
+time="2022-11-09T12:18:57+07:00" level=info msg="Maximum request limit has been reached" address=0x266b04CBaA83005097a4581aAFF8004CC5776120 clientIP=127.0.0.1
+nohup: appending output to 'nohup.out'
+time="2022-12-02T14:51:29+07:00" level=info msg="Starting http server 7080"
+nohup: appending output to 'nohup.out'
+time="2022-12-06T16:16:57+07:00" level=info msg="Starting http server 7080"
+time="2022-12-21T07:13:16+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:13:51+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:15:44+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:17:08+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:18:49+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:19:50+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:20:03+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T07:22:59+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T08:48:44+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+nohup: appending output to 'nohup.out'
+time="2022-12-21T10:20:10+07:00" level=info msg="Starting http server 7080"
+time="2022-12-21T10:20:58+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+time="2022-12-21T10:21:04+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+nohup: appending output to 'nohup.out'
+time="2022-12-21T10:31:30+07:00" level=info msg="Starting http server 7080"
+time="2022-12-21T10:32:20+07:00" level=error msg="Failed to send transaction" error="Post \"http://localhost:9545\": context deadline exceeded"
+nohup: appending output to 'nohup.out'
+time="2023-01-18T22:44:44-05:00" level=info msg="Starting http server 7080"
+time="2023-01-24T04:18:03-05:00" level=info msg="Funded directly successfully" address=0x795bC5b8fB3808DcF5A9e55F13301a6283e5d063 txHash=0x5830896e91ee3722b9665f2f454a6166e4bb76dcdd668a5610f0c98cf02ca97a
+time="2023-01-24T04:18:03-05:00" level=info msg="Maximum request limit has been reached" address=0x795bC5b8fB3808DcF5A9e55F13301a6283e5d063 clientIP=103.208.68.137
+nohup: appending output to 'nohup.out'
+time="2023-02-14T01:11:09-05:00" level=info msg="Starting http server 7080"
